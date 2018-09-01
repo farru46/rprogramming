@@ -1,0 +1,10 @@
+---
+title: "Arguments in R"
+author: "Syed Faraz Ali"
+date: "8/31/2018"
+output: html_document
+---
+
+This post describes how to pass external arguments to R when calling a Rscript with a command line.
+
+The most natural way to pass arguments from the command line is to use the function commandArgs.
